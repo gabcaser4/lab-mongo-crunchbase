@@ -1,0 +1,14 @@
+{
+  "name": "lab-mongo-crunchbase",
+  "version": "0.0.1",
+  "description": "Ejercicio del Lunes - Aprendiendo Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Daily"
+  ],
+  "author": "Gabriela Casero",
+  "license": "ISC"
+}
